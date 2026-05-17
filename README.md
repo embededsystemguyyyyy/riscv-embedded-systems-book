@@ -73,7 +73,7 @@ This repository accompanies the book:
 **Open Hardware Revolution: Practical Embedded Design**
 
 📦 Available on Amazon  
-👉 *(Insert Amazon book link here)*
+👉(https://a.co/d/064KhdkH)
 
 The book provides the theory, context, and design philosophy, while this repository provides the runnable code and experiments.
 
